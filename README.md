@@ -1,1 +1,1 @@
-# DeeP-Learning-Basics
+# Deep-Learning-Basics
